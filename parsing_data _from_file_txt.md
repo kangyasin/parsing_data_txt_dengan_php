@@ -60,7 +60,7 @@ Lalu buatlah file php sederhana dengan nama file index.php yang berisi kode sepe
 
 Jika file index.php dijalankan maka akan terlihat tampilan seperti berikut ini :
 
-![Fetch](https://www.dropbox.com/s/dgqh543v48jo674/fetch_data.PNG?raw=1)
+![Fetch](https://raw.githubusercontent.com/kangyasin/parsing_data_txt_dengan_php/master/screenshoot/fetch_data.PNG)
 
 ------
 
@@ -120,7 +120,7 @@ Setelah berhasil memanggil selanjutnya buat cara menambahkan data kedalam file m
 
 Setelah kode diatas dibuat dan disimpan dengan nama **form.php** maka akan terlihat tampilan seperti berikut ini :
 
-![Form](https://www.dropbox.com/s/e7qbufmp7d02x3j/form.PNG?raw=1)
+![Form](https://raw.githubusercontent.com/kangyasin/parsing_data_txt_dengan_php/master/screenshoot/form.PNG)
 
 
 
@@ -154,7 +154,8 @@ Lalu buat file php dengan nama **proses.php** untuk menjalankan proses fungsi ta
 
 Selanjutnya anda bisa jalankan dan jika berhasil maka akan terlihat tampilan kembali ke index seperti dibawah ini :
 
-![Saved](https://www.dropbox.com/s/e0xi1v79v5v3mo4/saved.PNG?raw=1)
+![Saved](https://raw.githubusercontent.com/kangyasin/parsing_data_txt_dengan_php/master/screenshoot/saved.PNG)
 
 Untuk full sourcenya saya sudah tambahkan disini :
 
+**mhstxt** : https://github.com/kangyasin/parsing_data_txt_dengan_php/tree/master/mhstxt
