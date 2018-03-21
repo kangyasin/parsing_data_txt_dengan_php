@@ -1,0 +1,4 @@
+ID|NAMA|NIM|JURUSAN|ALAMAT
+001|Yasin|13101031|Sistem Informasi|Indonesia, Jakarta
+002|Gerrard|13101032|Manajemen Informasi|Indonesia, Jakarta
+ 003|Herman|13101033|Manajemen Informasi|Jakarta, Indonesia
